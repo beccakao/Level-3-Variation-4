@@ -20,27 +20,27 @@ body{
 }
 
 .spacing2{
-	padding: 50px 20px;
+	padding: 80px 20px;
 	position: absolute;
 }
 
 .spacing3{
-	padding: 100px 40px;
+	padding: 160px 40px;
 	position: absolute;
 }
 
 .spacing4{
-	padding: 150px 60px;
+	padding: 240px 60px;
 	position: absolute;
 }
 
 .spacing5{
-	padding: 200px 80px;
+	padding: 320px 80px;
 	position: absolute;
 }
 
 .spacing6{
-	padding: 250px 100px;
+	padding: 400px 100px;
 	position: absolute;
 }
 
