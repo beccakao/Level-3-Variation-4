@@ -8,12 +8,8 @@ body{
 }
 
 .section-1{
-	/*width: 50%; */
 	height: 500px;
-	/* create pattern-1 CSS here */
 }
-
-
 
 .pattern-2{
 	float: left;
@@ -21,13 +17,10 @@ body{
 	height: 300px;
 	margin: 25px;
 	background-color: #dadada;
-
 }
 
 .section-2{	
-	width: 100%;
-	/* create pattern-3 CSS here */
-	
+	width: 100%;	
 }
 
 .pattern-4{
