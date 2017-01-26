@@ -9,10 +9,14 @@ body{
 
 .pattern-1{
 	float: left;
-	width: 120px;
-	height: 700px;
+	width: 500px;
+	height: 500px;
 	margin: 20;
 	background-color: #dadada;
+}
+
+.spacing{
+	padding: 5px 10px;
 }
 
 p{
