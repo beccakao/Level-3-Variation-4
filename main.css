@@ -16,32 +16,31 @@ body{
 }
 
 .spacing1{
-	padding: 0px 10px;
 	position: absolute;
 }
 
 .spacing2{
-	padding: 50px 10px;
+	padding: 50px 20px;
 	position: absolute;
 }
 
 .spacing3{
-	padding: 100px 10px;
+	padding: 100px 40px;
 	position: absolute;
 }
 
 .spacing4{
-	padding: 150px 10px;
+	padding: 150px 60px;
 	position: absolute;
 }
 
 .spacing5{
-	padding: 200px 10px;
+	padding: 200px 80px;
 	position: absolute;
 }
 
 .spacing6{
-	padding: 250px 10px;
+	padding: 250px 100px;
 	position: absolute;
 }
 
