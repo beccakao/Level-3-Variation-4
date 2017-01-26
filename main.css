@@ -4,36 +4,20 @@
 
 body{
 
-	background:white;
+	background:gray;
 }
 
-.section-1{
-	height: 500px;
-}
-
-.pattern-2{
+.pattern-1{
 	float: left;
-	width: 300px;
-	height: 300px;
-	margin: 25px;
-	background-color: #dadada;
-}
-
-.section-2{	
-	width: 100%;	
-}
-
-.pattern-4{
-	float: left;
-	width: 300px;
-	height: 300px;
-	margin: 25px;
+	width: 120px;
+	height: 700px;
+	margin: auto;
 	background-color: #dadada;
 }
 
 p{
-	width: 100%;
-	margin: 5px;
+	width: 100px;
+	margin: 10px;
 }
 
 img{
