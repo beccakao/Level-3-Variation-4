@@ -14,6 +14,9 @@ body{
 	margin: 20;
 	background-color: #dadada;
 }
+.spacing0{
+	position: absolute;
+}
 
 .spacing1{
 	position: absolute;
@@ -41,6 +44,11 @@ body{
 
 .spacing6{
 	padding: 400px 100px;
+	position: absolute;
+}
+
+.spacing7{
+	padding: 480px 100px;
 	position: absolute;
 }
 
